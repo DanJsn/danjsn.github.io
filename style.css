@@ -1,0 +1,34 @@
+html {
+background-image: url(file:///Users/danjansoone/Desktop/Vcard/Vcard/img/bg.jpeg);
+background-size:  cover;
+background-repeat: no-repeat;
+
+}
+
+#img{
+  float: top;
+  padding-top:60px;
+}
+
+.TEXT {
+
+  color: black;
+  font-size: 15px;
+  font-family: Avenir;
+  background: white;
+  padding: 2px;
+  width: 296px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.social p {
+display: inline-block;
+padding: 10px;
+background-color: white;
+}
+
+
+.centre {
+text-align:center;
+}
